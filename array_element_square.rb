@@ -12,6 +12,5 @@ user_string = gets.chomp
 
 user_numbers = user_string.split
 
-user_numbers[]
 
-
+puts user_numbers[-2].to_f ** 2
